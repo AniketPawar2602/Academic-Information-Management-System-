@@ -1,6 +1,6 @@
 ### Student Management System
 ## Description
-# A Java Swing application designed for managing student records. This application allows users to perform CRUD (Create, Read, Update, Delete) operations on student data, including adding new students, viewing existing records, searching for specific students, and updating student information. The application uses a MySQL database for data storage and retrieval.
+A Java Swing application designed for managing student records. This application allows users to perform CRUD (Create, Read, Update, Delete) operations on student data, including adding new students, viewing existing records, searching for specific students, and updating student information. The application uses a MySQL database for data storage and retrieval.
 
 ## Features
 # Add Student: 
