@@ -4,8 +4,11 @@ A Java Swing application designed for managing student records. This application
 
 ## Features
 Add Student: Input and save new student details to the database.
+
 View Students: Display a list of all students in a table format.
+
 Search Student: Find and display details of a student by their ID.
+
 Update Student: Modify existing student records.
 
 # Technologies Used
