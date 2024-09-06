@@ -10,6 +10,9 @@ Update Student: Modify existing student records.
 
 # Technologies Used
 Java: Programming language used for building the application.
+
 Swing: GUI toolkit used for the user interface.
+
 MySQL: Database used for storing student records.
+
 Eclipse: IDE used for development.
