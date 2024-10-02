@@ -1,7 +1,3 @@
-Here’s a project description you can use to post your **Student Record System** on GitHub:
-
----
-
 # Student Record System
 
 The **Student Record System** is a Java-based desktop application that provides an efficient way to manage student records for educational institutions. Built using Java Swing for the graphical user interface and MySQL for database management, this system allows both **Admins** and **Teachers** to manage student information seamlessly.
@@ -46,7 +42,3 @@ The system connects to a MySQL database to store and manage student and teacher 
 3. Use the SQL script provided to create tables (`admin`, `teachers`, and `students`).
 4. Update the database credentials in the `connectDatabase()` method.
 5. Run the project from your IDE (e.g., Eclipse) and use the GUI for managing student records.
-
----
-
-This description gives a clear overview of the project for potential recruiters and collaborators, focusing on its features, usage, and technical implementation. You can modify it to include any additional details that are specific to your implementation!
