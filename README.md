@@ -31,6 +31,24 @@ The system connects to a MySQL database to store and manage student and teacher 
 - **Teacher Table**: Stores teacher details including login credentials.
 - **Student Table**: Stores all student-related data, enabling CRUD operations.
 
+### Screenshots
+![Login Page](https://github.com/user-attachments/assets/84260e71-2711-43c5-99c1-e7da545dccc3)
+
+![Admin Dashoboard](https://github.com/user-attachments/assets/41398d38-a9ff-41f1-a0ff-39ea56058e00)
+
+![Teacher Dashoboard](https://github.com/user-attachments/assets/c97d2acb-f76b-4708-9953-4030b72e9159)
+
+![add student](https://github.com/user-attachments/assets/ad4e0835-3b18-4238-8c47-edf62076f02f)
+
+![after update student view](https://github.com/user-attachments/assets/c156fe41-d42f-4220-b240-2251ced51d12)
+
+![seach student](https://github.com/user-attachments/assets/f621c21b-16e5-4018-a017-d61f9c660580)
+
+![update student](https://github.com/user-attachments/assets/ddb5af50-5316-49e4-ae16-73002c23d9d1)
+
+![view student](https://github.com/user-attachments/assets/58db29c3-2239-47b9-ac16-f33ab8455bf7)
+
+
 ## Technologies Used
 - **Java (Swing)**: For creating the desktop GUI.
 - **MySQL**: For managing all persistent data (students, teachers, and admins).
