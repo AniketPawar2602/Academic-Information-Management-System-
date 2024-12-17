@@ -1,12 +1,12 @@
-# Student Record System
+# Academic Information Management System
 
-The **Student Record System** is a Java-based desktop application that provides an efficient way to manage student records for educational institutions. Built using Java Swing for the graphical user interface and MySQL for database management, this system allows both **Admins** and **Teachers** to manage student information seamlessly.
+The Student Record System is a Java-based desktop application that efficiently manages student records for educational institutions. Built using Java Swing for the graphical user interface and MySQL for database management, this system allows both administrators and Teachers to manage student information seamlessly.
 
 ## Features
 
 ### 1. Admin Login and Dashboard
 Admins have access to a full range of management tools, including:
-- **Add Teachers**: Admins can add teachers with their respective details like name, subject, department, username, and password.
+- **Add Teachers**: Admins can add teachers with their respective details, such as name, subject, department, username, and password.
 - **Manage Teachers**: Admins can manage teacher credentials and information from the dashboard.
 
 ### 2. Teacher Login and Dashboard
